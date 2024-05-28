@@ -1,0 +1,3 @@
+Group Leader Cell ID: (3, 5)
+Number of vehicles in cell: 25
+Group Leader ID: veh69
